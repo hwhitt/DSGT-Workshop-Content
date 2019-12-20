@@ -14,3 +14,5 @@ Repo Contents: Lecture Materials Including Code and Presentations
 - Special Presentation Events at HackGT and Hackalytics  
 
 
+Fellow Content Members: Names released with permission   
+- Vidhur Kumar  
