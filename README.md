@@ -16,3 +16,4 @@ Repo Contents: Lecture Materials Including Code and Presentations
 
 Fellow Content Members: Names released with permission   
 - Vidhur Kumar  
+- Jason Yao
