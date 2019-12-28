@@ -1,0 +1,4 @@
+1 : Decision Tree
+2 : SVM
+3 : KNN
+4 : Neural Network
